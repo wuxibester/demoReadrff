@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demoReadrff", "demoReadrff.csproj", "{22CC8F1D-485F-4B35-A116-0E46FB6E5E39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rff2csv", "rff2csv\rff2csv.csproj", "{95962A52-AC3D-4649-9B53-040479CB2691}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22CC8F1D-485F-4B35-A116-0E46FB6E5E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22CC8F1D-485F-4B35-A116-0E46FB6E5E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22CC8F1D-485F-4B35-A116-0E46FB6E5E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22CC8F1D-485F-4B35-A116-0E46FB6E5E39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95962A52-AC3D-4649-9B53-040479CB2691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95962A52-AC3D-4649-9B53-040479CB2691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95962A52-AC3D-4649-9B53-040479CB2691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95962A52-AC3D-4649-9B53-040479CB2691}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E18C3BC-7AD5-4764-813D-5EAC06F63366}
+	EndGlobalSection
+EndGlobal
